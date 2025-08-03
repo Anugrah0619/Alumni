@@ -92,20 +92,3 @@ npm test
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## ⭐ Contribute & Support
-
-If you find this project helpful:
-
-- Give it a ⭐  
-- Share with others  
-- [Raise an issue](https://github.com/Anugrah0619/Alumni/issues) or submit a PR if you have suggestions or fixes
-
----
-
-**Crafted with ❤️ by [Anugrah0619](https://github.com/Anugrah0619)**
