@@ -18,7 +18,6 @@ Alumni is a full-stack React application integrated with Firebase. It's designed
 
 ## 📸 Screenshots
 
-> _Add your screenshots in the `screenshots/` directory and link them below_
 
 | Login Page | Alumni Dashboard | Chat Interface |
 |------------|------------------|----------------|
